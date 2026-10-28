@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="165" viewBox="0 0 560 165" role="img" aria-label="NEOGET: A better Windows maintenance workflow">
+<defs><linearGradient id="base" x1="0" x2="1" y2="1"><stop stop-color="#0d1627"/><stop offset="1" stop-color="#161a32"/></linearGradient><linearGradient id="edge"><stop stop-color="#6fa8ff"/><stop offset="1" stop-color="#917dfe"/></linearGradient></defs>
+<rect width="560" height="165" fill="url(#base)" rx="13"/>
+<rect x="1" y="1" width="558" height="163" rx="12" fill="none" stroke="#3b4565" stroke-opacity=".5"/>
+<rect x="0" y="0" width="5" height="165" rx="2.5" fill="url(#edge)"/>
+<circle cx="483" cy="82" r="101" fill="#6fa8ff" opacity=".035"/>
+<circle cx="483" cy="82" r="74" fill="none" stroke="#6fa8ff" stroke-opacity=".12"/>
+<text x="26" y="34" fill="#6fa8ff" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2">WINDOWS TOOLING</text>
+<text x="26" y="85" fill="#f5f8ff" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="800" letter-spacing="-.5">NEOGET</text>
+<text x="27" y="116" fill="#a9b8d0" font-family="Arial,Helvetica,sans-serif" font-size="13">A better Windows maintenance workflow</text>
+<path d="M27 136H242" stroke="#455774" stroke-width="1" opacity=".5"/>
+<g transform="translate(392 5) scale(.93)"><g fill="none" stroke="#6fa8ff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"><path d="M91 31V106M65 81L91 107L117 81"/><path d="M45 122V137H139V122"/></g></g>
+</svg>
