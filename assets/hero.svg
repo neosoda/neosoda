@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="365" viewBox="0 0 1200 365" role="img" aria-label="NEOSODA — systems, networks and automation">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y2="1"><stop stop-color="#071221"/><stop offset=".58" stop-color="#10132a"/><stop offset="1" stop-color="#091728"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#6844a8" stop-opacity=".38"/><stop offset="1" stop-color="#6844a8" stop-opacity="0"/></radialGradient>
+ <linearGradient id="accent"><stop stop-color="#51eced"/><stop offset="1" stop-color="#a18aff"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#a4bdf2" stroke-opacity=".055"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="11"/></filter>
+</defs>
+<rect width="1200" height="365" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="365" rx="20" fill="url(#grid)"/>
+<ellipse cx="980" cy="166" rx="290" ry="260" fill="url(#halo)"/>
+<path d="M43 44H93" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+<text x="106" y="49" fill="#9ab8d5" font-family="Arial,Helvetica,sans-serif" letter-spacing="3" font-size="13" font-weight="700">ENGINEERING / OPEN SOURCE / AI</text>
+<text x="58" y="165" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="800" letter-spacing="-3" fill="#f5f8ff">neo</text>
+<text x="197" y="165" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="800" letter-spacing="-3" fill="url(#accent)">soda</text>
+<text x="60" y="207" fill="#dbe9fa" font-family="Arial,Helvetica,sans-serif" font-weight="700" letter-spacing="2.4" font-size="18">BUILD. AUTOMATE. SECURE.</text>
+<text x="60" y="247" fill="#92a9c4" font-family="Arial,Helvetica,sans-serif" font-size="16">Turning real-world infrastructure problems into useful tools.</text>
+<rect x="58" y="287" width="157" height="35" rx="17.5" fill="#142b38" stroke="#3b727e" stroke-opacity=".8"/>
+<circle cx="77" cy="304" r="4" fill="#55efdb"/>
+<text x="90" y="309" fill="#b4f8ed" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1" font-weight="700">SYSADMIN</text>
+<rect x="229" y="287" width="168" height="35" rx="17.5" fill="#211d3d" stroke="#625487" stroke-opacity=".75"/>
+<circle cx="248" cy="304" r="4" fill="#b1a2ff"/>
+<text x="261" y="309" fill="#d9d0ff" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1" font-weight="700">MAKER MINDSET</text>
+<g transform="translate(874 166)">
+<circle r="126" fill="none" stroke="#4e658d" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="4 8"/>
+<circle r="96" fill="none" stroke="#7797b4" stroke-opacity=".24"/>
+<circle r="70" fill="#111c33" stroke="#6f82ce" stroke-opacity=".48" stroke-width="2"/>
+<path d="M-42 -17L-15 -42L32 -20L43 28L0 46L-38 24Z" fill="none" stroke="url(#accent)" stroke-width="2.2"/>
+<path d="M-42 -17L0 46M-15 -42L43 28M32 -20L-38 24" stroke="#70afcd" stroke-opacity=".26" stroke-width="1.5"/>
+<g fill="#0e2435" stroke="#63e3f0" stroke-width="3"><circle cx="-42" cy="-17" r="6"/><circle cx="-15" cy="-42" r="6"/><circle cx="32" cy="-20" r="6"/><circle cx="43" cy="28" r="6"/><circle cx="0" cy="46" r="6"/><circle cx="-38" cy="24" r="6"/></g>
+<path d="M-91 -62L-153 -105H-203M96 -19L161 -19L187 -45H241M46 86L97 120H176M-118 41L-190 72H-226" stroke="#6b95c5" stroke-opacity=".56" stroke-width="1.5" fill="none"/>
+<circle cx="-153" cy="-105" r="4" fill="#9d8cf7"/><circle cx="161" cy="-19" r="4" fill="#62e7e7"/><circle cx="97" cy="120" r="4" fill="#9d8cf7"/><circle cx="-190" cy="72" r="4" fill="#62e7e7"/>
+<path d="M-88 -88L-124 -125M91 89L127 125" stroke="#56e8e0" stroke-opacity=".3" stroke-width="2"/>
+</g>
+<rect x="0" y="359" width="1200" height="6" rx="3" fill="url(#accent)"/>
+</svg>
