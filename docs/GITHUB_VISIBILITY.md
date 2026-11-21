@@ -12,7 +12,7 @@ GitHub search and discovery benefit from concise repository descriptions, releva
 | [DriversUpdate](https://github.com/neosoda/DriversUpdate) | PowerShell tools for controlled Windows driver updates through Windows Update or WSUS, with GPO support. | `windows`, `drivers`, `powershell`, `wsus`, `windows-update`, `gpo`, `sysadmin` | — |
 | [ia-portable](https://github.com/neosoda/ia-portable) | Local-first Linux CLI assistant that turns natural language into Bash commands via Ollama or OpenRouter. | `linux`, `bash`, `ollama`, `llm`, `terminal`, `local-ai`, `cli` | — |
 | [news](https://github.com/neosoda/news) | Self-hosted tech news aggregator with RSS collection, deduplication and AI-assisted summaries. | `rss`, `news-aggregator`, `tech-news`, `ai`, `cybersecurity`, `self-hosted`, `docker` | https://news.techsentinel.fr |
-| [Tools](https://github.com/neosoda/Tools) | Self-hosted browser toolbox for images, PDF, text, dates and structured data. | `web-tools`, `self-hosted`, `privacy`, `pdf-tools`, `image-tools`, `react`, `docker` | https://tools.techsentinel.fr |
+| [Tools](https://github.com/neosoda/Tools) | TechSentinel-maintained adaptation of OmniTools for images, PDF, text, dates and structured data. | `web-tools`, `self-hosted`, `privacy`, `pdf-tools`, `image-tools`, `react`, `docker` | https://tools.techsentinel.fr |
 | [networking-toolbox](https://github.com/neosoda/networking-toolbox) | Hosted derivative of Alicia Sykes' Networking Toolbox: subnetting, CIDR, DNS and network diagnostics. | `networking`, `network-tools`, `subnet-calculator`, `cidr`, `dns`, `sveltekit` | https://nettools.techsentinel.fr |
 | [NetTools](https://github.com/neosoda/NetTools) | Windows network operations app: SNMP discovery, multi-site inventory, SSH backups and configuration audits. | `network-administration`, `snmp`, `ssh`, `network-inventory`, `network-audit`, `wails`, `go` | — |
 | [NeoGet](https://github.com/neosoda/NeoGet) | Windows desktop app for WinGet software management, updates and maintenance, built with Tauri and Rust. | `winget`, `windows`, `package-manager`, `software-updater`, `tauri`, `rust` | — |
@@ -41,4 +41,5 @@ GitHub search and discovery benefit from concise repository descriptions, releva
 - Most public repositories had **no GitHub topics** at the time of inspection.
 - `MiniScreenCompanion` had an About description mentioning unrelated **GeekMagic/ESP32** hardware, while the README documents the **Turing 3.5-inch** display.
 - `NeoTech-Toolkit` documented a release download before any GitHub release was found; avoid this claim until a real artifact exists.
+- `Tools` is a derivative of [OmniTools](https://github.com/iib0011/omni-tools) by **Ibrahima Gaye Coulibaly**; retain the upstream MIT notice and attribution.
 - `networking-toolbox` is a derivative of **Alicia Sykes'** original work. Preserve explicit credit and do not market it as an original product.
