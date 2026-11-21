@@ -70,6 +70,19 @@
 
 <br />
 
+## `NEW / EXPLORE MORE`
+
+Explore practical open-source projects beyond the featured selection:
+
+| Project | What you can do | Explore |
+| :--- | :--- | :--- |
+| **Agent Commons** | Share skills and MCP setups between AI coding assistants, locally and with controlled synchronization. | [Source & docs](https://github.com/neosoda/agent-commons) |
+| **Protocol** | Learn TCP/IP, DNS, HTTP, TLS and routing through interactive packet-by-packet lessons. | [Try the lab](https://protocol.techsentinel.fr) · [Source](https://github.com/neosoda/Protocol) |
+| **Chocolatey Packager** | Build and validate Chocolatey packages from Windows MSI/EXE installers using a GUI. | [Download beta](https://github.com/neosoda/ChocolateyPackager/releases/tag/v0.4.0-beta.1) |
+| **TechSentinel Toolbox** | Use browser-based tools for PDF, images, text and data, or self-host the suite. | [Try online](https://tools.techsentinel.fr) · [Source](https://github.com/neosoda/Tools) |
+
+<br />
+
 ## `02 / MY TOOLBOX`
 
 <p><strong>Build & code</strong></p>
