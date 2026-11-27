@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="150" viewBox="0 0 560 150" role="img" aria-label="Protocol">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1410"/><stop offset="1" stop-color="#10251a"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#78e79c" stroke-opacity=".055"/></pattern></defs>
+<rect x=".5" y=".5" width="559" height="149" rx="12" fill="url(#b)" stroke="#2b5139"/><rect x="1" y="1" width="558" height="148" rx="11" fill="url(#g)"/>
+<path d="M18 27V17H28M532 133H542V123" fill="none" stroke="#6cf78e" stroke-opacity=".8"/>
+<circle cx="36" cy="36" r="3.5" fill="#71fa91"/><text x="47" y="40" fill="#a5ccb2" font-size="11" letter-spacing="1" font-family="monospace">NETWORK / INTERACTIVE LAB</text>
+<text x="32" y="83" fill="#eff8f0" font-size="35" font-weight="700" font-family="Arial,Helvetica,sans-serif">Protocol<tspan fill="#71fa91">_</tspan></text>
+<text x="33" y="110" fill="#8ac39d" font-size="11" letter-spacing=".7" font-family="monospace">PACKETS · PROTOCOLS · ROUTING</text>
+<circle cx="477" cy="74" r="52" fill="none" stroke="#75e797" stroke-opacity=".18" stroke-dasharray="3 7"/><g transform="translate(477 74)" fill="#0c1b13" stroke="#71fa91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="-42" y="-22" width="32" height="44" rx="4"/><rect x="10" y="-22" width="32" height="44" rx="4"/><path d="M-10-8H10M5-13L10-8 5-3M10 8H-10M-5 3L-10 8-5 13M-34-10H-18M18-10H34M-34 2H-18M18 2H34"/></g>
+<path d="M12 149H548" stroke="#71fa91" stroke-opacity=".6" stroke-width="2"/></svg>
