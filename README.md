@@ -1,144 +1,107 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="NEOSODA — Build. Automate. Secure." width="100%" />
-
+  <img src="./assets/matrix-hero.png" alt="NeoSoda — Build. Automate. Secure." width="100%" />
   <br /><br />
-
-  <a href="https://hub.xerj.org/contributors/neosoda"><img alt="XERJ Corpus Hub contributor" src="https://hub.xerj.org/contributors/neosoda/badge.svg" /></a>
-  &nbsp;
-  <a href="https://blog.techsentinel.fr/"><img alt="TechSentinel" src="https://img.shields.io/badge/TechSentinel-Read%20the%20blog-101b32?style=flat-square&amp;logo=rss&amp;logoColor=5CE4E7" /></a>
-  &nbsp;
-  <a href="https://github.com/neosoda?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-101b32?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-
-  <br /><br />
-
-  **Hey, I'm Neo.** 👋
-
-  Systems & network administrator by day. Builder, self-hoster and automation enthusiast by nature.
-
-  I build practical tools for **infrastructure, cybersecurity, Windows, Linux and local-first AI**.
-  Real problems, clean solutions, no unnecessary complexity.
+  <a href="https://blog.techsentinel.fr/">TechSentinel blog</a> &nbsp; / &nbsp;
+  <a href="https://github.com/neosoda?tab=repositories">All repositories</a> &nbsp; / &nbsp;
+  <a href="https://hub.xerj.org/contributors/neosoda">XERJ contributor</a>
 </div>
 
-<br />
+## `01 / WHOAMI`
 
-## `01 / SELECTED WORK`
+I'm Neo, a systems & network administrator based in France, a self-hoster and a builder by nature.
 
-<div align="center">
-  <sub>Tools I build to make technology more useful, reliable and accessible.</sub>
-</div>
+I build practical tools for infrastructure, cybersecurity, Windows, Linux and local-first AI. Real problems, clean solutions, no unnecessary complexity.
 
-<br />
+## `02 / SELECTED WORK`
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/neosoda/NetTools"><img src="./assets/nettools.svg" alt="NetTools — network operations" width="100%" /></a>
-      <p><strong>Discover, inventory, back up and audit network devices.</strong><br />
-      <sub>Go · Wails · React · SNMP · SSH</sub></p>
+      <a href="https://github.com/neosoda/agent-commons"><img src="./assets/matrix-agent-commons.svg" alt="Agent Commons — AI agent infrastructure" width="100%" /></a>
+      <p><strong>A local control center for AI agent skills and MCP servers.</strong><br /><sub>Node.js · Skills · MCP</sub></p>
+      <a href="https://github.com/neosoda/agent-commons">Source &amp; docs</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/neosoda/NeoGet"><img src="./assets/neoget.svg" alt="NeoGet — Windows tooling" width="100%" /></a>
-      <p><strong>WinGet package management, diagnostics and Windows maintenance.</strong><br />
-      <sub>Tauri · Rust · React · TypeScript</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/neosoda/news"><img src="./assets/news.svg" alt="Tech News — AI powered news intelligence" width="100%" /></a>
-      <p><strong>Automated tech and security monitoring with AI summaries.</strong><br />
-      <sub>Node.js · React · RSS · LLM routing</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/neosoda/GenSentinel"><img src="./assets/gensentinel.svg" alt="GenSentinel — client-side secret generation" width="100%" /></a>
-      <p><strong>Generate passwords, tokens and secrets directly in the browser.</strong><br />
-      <sub>Next.js · TypeScript · Web Crypto</sub></p>
+      <a href="https://github.com/neosoda/Protocol"><img src="./assets/matrix-protocol.svg" alt="Protocol — interactive network laboratory" width="100%" /></a>
+      <p><strong>Understand network protocols, packet by packet.</strong><br /><sub>Interactive lessons · TCP/IP · DNS · Routing</sub></p>
+      <a href="https://protocol.techsentinel.fr">Live lab</a> · <a href="https://github.com/neosoda/Protocol">Source</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/neosoda/DistroSentinel"><img src="./assets/distro.svg" alt="DistroSentinel — discover Linux distributions" width="100%" /></a>
-      <p><strong>Discover and compare Linux distributions with useful filters.</strong><br />
-      <sub>TypeScript · Vite · Docker</sub></p>
+      <a href="https://github.com/neosoda/NetTools"><img src="./assets/matrix-nettools.svg" alt="NetTools — network operations" width="100%" /></a>
+      <p><strong>Discover, inventory, back up and audit network devices.</strong><br /><sub>Go · Wails · React · SNMP · SSH</sub></p>
+      <a href="https://github.com/neosoda/NetTools">Source &amp; docs</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/neosoda/ShadowRDP"><img src="./assets/shadow.svg" alt="ShadowRDP — Windows remote support" width="100%" /></a>
-      <p><strong>Remote assistance and RDP Shadow administration toolkit.</strong><br />
-      <sub>PowerShell · Active Directory · GPO</sub></p>
+      <a href="https://github.com/neosoda/NeoGet"><img src="./assets/matrix-neoget.svg" alt="NeoGet — Windows tooling" width="100%" /></a>
+      <p><strong>Windows application management, updates and system maintenance.</strong><br /><sub>Tauri · Rust · React · TypeScript</sub></p>
+      <a href="https://github.com/neosoda/NeoGet">Source &amp; docs</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/neosoda/DistroSentinel"><img src="./assets/matrix-distro.svg" alt="DistroSentinel — explore Linux and BSD" width="100%" /></a>
+      <p><strong>Explore and compare Linux and BSD distributions.</strong><br /><sub>TypeScript · Vite · Docker</sub></p>
+      <a href="https://distro.techsentinel.fr/">Live explorer</a> · <a href="https://github.com/neosoda/DistroSentinel">Source</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/neosoda/news"><img src="./assets/matrix-news.svg" alt="TechSentinel News — technology intelligence" width="100%" /></a>
+      <p><strong>Automated technology and security monitoring with AI summaries.</strong><br /><sub>Node.js · React · RSS · LLM routing</sub></p>
+      <a href="https://github.com/neosoda/news">Source &amp; docs</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/neosoda/GenSentinel"><img src="./assets/matrix-gensentinel.svg" alt="GenSentinel — client-side secret generation" width="100%" /></a>
+      <p><strong>Generate passwords, tokens and secrets directly in your browser.</strong><br /><sub>Next.js · TypeScript · Web Crypto</sub></p>
+      <a href="https://github.com/neosoda/GenSentinel">Source &amp; docs</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/neosoda/ShadowRDP"><img src="./assets/matrix-shadow.svg" alt="ShadowRDP — remote support" width="100%" /></a>
+      <p><strong>Remote assistance and RDP Shadow administration toolkit.</strong><br /><sub>PowerShell · Active Directory · GPO</sub></p>
+      <a href="https://github.com/neosoda/ShadowRDP">Source &amp; docs</a>
     </td>
   </tr>
 </table>
 
-<br />
+### `+ / EXPLORE MORE`
 
-## `NEW / EXPLORE MORE`
-
-Explore practical open-source projects beyond the featured selection:
-
-| Project | What you can do | Explore |
+| Project | What it does | Explore |
 | :--- | :--- | :--- |
-| **Agent Commons** | Share skills and MCP setups between AI coding assistants, locally and with controlled synchronization. | [Source & docs](https://github.com/neosoda/agent-commons) |
-| **Protocol** | Learn TCP/IP, DNS, HTTP, TLS and routing through interactive packet-by-packet lessons. | [Try the lab](https://protocol.techsentinel.fr) · [Source](https://github.com/neosoda/Protocol) |
-| **Chocolatey Packager** | Build and validate Chocolatey packages from Windows MSI/EXE installers using a GUI. | [Download beta](https://github.com/neosoda/ChocolateyPackager/releases/tag/v0.4.0-beta.1) |
-| **TechSentinel Toolbox** | Use browser-based tools for PDF, images, text and data, or self-host the suite (adapted from OmniTools). | [Try online](https://tools.techsentinel.fr) · [Source](https://github.com/neosoda/Tools) |
+| **Chocolatey Packager** | Build and validate Chocolatey packages from MSI and EXE installers using a GUI. | [Source & docs](https://github.com/neosoda/ChocolateyPackager) · [Releases](https://github.com/neosoda/ChocolateyPackager/releases) |
+| **TechSentinel Toolbox** | Self-hostable browser tools for PDF, images, text and data, adapted from OmniTools. | [Live](https://tools.techsentinel.fr) · [Source](https://github.com/neosoda/Tools) |
+| **Networking Toolbox** | CIDR, DNS, IP tools and network diagnostics in the browser. | [Live](https://nettools.techsentinel.fr) · [Source](https://github.com/neosoda/networking-toolbox) |
 
-<br />
+## `03 / SYSTEM STACK`
 
-## `02 / MY TOOLBOX`
+| Domain | Tools & interests |
+| :--- | :--- |
+| Infrastructure | Linux · Windows Server · Docker · Virtualization · Zabbix · Cloudflare |
+| Engineering | TypeScript · Go · Rust · Python · PowerShell · React |
+| Data & services | PostgreSQL · APIs · Self-hosting |
+| AI | Local LLMs · AI agents · MCP · RAG · Automation |
+| Security | Network security · Hardening · Secure-by-design tooling |
 
-<p><strong>Build & code</strong></p>
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-181717?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-<p><strong>Infrastructure & operations</strong></p>
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-<p><strong>Exploring every day</strong></p>
-
-`Local AI` · `AI agents` · `MCP` · `RAG` · `Self-hosting` · `Automation` · `Network security`
-
-<br />
-
-## `03 / HOW I THINK`
+## `04 / OPERATING PRINCIPLES`
 
 ```text
-$ whoami
-  sysadmin / builder / curious human
+neo@matrix:~$ cat principles.conf
 
-$ mission
-  make complex systems simpler, safer and easier to operate
-
-$ principles
-  practical > fashionable
-  maintainable > clever
-  automation > repetition
-  shipping > overthinking
+  reliability   > hype
+  simplicity    > complexity
+  automation    > repetition
+  security      = by design
+  maintainable  > clever
+  shipping      > overthinking
+  curiosity     = always on
 ```
 
-<br />
-
 <div align="center">
-
-### Let's build things that actually work.
-
-If you find a project useful, drop it a ⭐ — or open an issue with an idea.
-
-<a href="https://github.com/neosoda?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_PROJECTS-5CE4E7?style=for-the-badge&amp;logo=github&amp;logoColor=08111F&amp;labelColor=0E1830" alt="Browse projects" /></a>
-&nbsp;
-<a href="https://blog.techsentinel.fr/"><img src="https://img.shields.io/badge/TECHSENTINEL-A792FF?style=for-the-badge&amp;logo=rss&amp;logoColor=08111F&amp;labelColor=0E1830" alt="TechSentinel blog" /></a>
-
-<br /><br />
-
-<sub>Made with curiosity, caffeine & a healthy obsession with making things work. ☕</sub>
-
+  <br />
+  <strong>There is no spoon. But there is always a better way.</strong>
+  <br /><br />
+  If you find a project useful, star it or open an issue with an idea.
+  <br /><br />
+  <sub><a href="https://github.com/neosoda?tab=repositories">Explore my work</a> · <a href="https://blog.techsentinel.fr/">Read TechSentinel</a> · <a href="https://hub.xerj.org/contributors/neosoda">XERJ contributor</a></sub>
 </div>
